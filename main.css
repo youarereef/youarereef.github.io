@@ -3,6 +3,7 @@ html {
 }
 
 body {
+    margin: 1% auto;
     width: 600px;  /* заставляет тело быть всегда 600 пикселей в ширину.*/
     margin: 0 auto; /* */
     background-color: #FF9500;
@@ -28,7 +29,7 @@ body {
 p {
     display: block;
     margin: 0 auto;
-    color: #e71e10;
+    color: #47120f;
     width: 500px;
     border: 1px solid black;
     font-size: 30px;
@@ -36,8 +37,8 @@ p {
 }
 
 .page_center {
-    margin: 0 auto;
-    padding: 10px 10px;
+    margin: 11% auto;
+    padding: 10px 10px 10px 10px;
     display: block;
     align-content: center;
     border: 10px solid rgb(56, 216, 7);
