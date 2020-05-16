@@ -10,7 +10,7 @@ body {
     margin-left: auto;
     width: 1171px;  /* заставляет тело быть всегда 600 пикселей в ширину.*/
     background-color: #e7b0b0;
-    padding: 0 20px 20px 20px; /* у нас есть четыре значения, установленные для padding, 
+    padding: 20px 20px 20px 20px; /* у нас есть четыре значения, установленные для padding, 
                                     чтобы сделать немного пространства вокруг нашего контента. 
                                     В этот раз мы не устанавливаем padding на верхней части 
                                     тела, но делаем 20 пикселей слева, снизу и справа. 
@@ -20,10 +20,10 @@ body {
   }
 
   h1 {
-    margin: 0; /* margin, пр-во вокруг внешней стороны элемента  */
+    
     padding: 20px 0; /* padding, пр-во только вокруг контента (например, вокруг абзаца текста) */
     color: rgb(4, 58, 102);
-    text-shadow: 3px 3px 1px #f0efe3;
+    /* text-shadow: 3px 3px 1px #f0efe3; */
     font-size: 40px;
     font-family: Cambria, Cochin, Georgia;
     text-align: center;
@@ -34,9 +34,12 @@ body {
    }
    
   .salut {
-    margin: 11% auto;
-    padding: 10px 10px 10px 10px;
+    
+    padding: 1px 10px 10px 10px;
     display: block;
     align-content: center;
     border: 10px solid rgb(7, 174, 216);
+    font-size: 20px;
+    background-color: #f6f7ce;
+    text-align: right;
   }
