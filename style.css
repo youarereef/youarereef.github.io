@@ -35,11 +35,11 @@ body {
    
   .salut {
     
-    padding: 1px 10px 10px 10px;
+    padding: 5px 10px 10px 10px;
     display: block;
     align-content: center;
     border: 10px solid rgb(7, 174, 216);
     font-size: 20px;
     background-color: #f6f7ce;
-    text-align: right;
+    text-align: left;
   }
