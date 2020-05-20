@@ -25,7 +25,7 @@ body {
     color: rgb(4, 58, 102);
     /* text-shadow: 3px 3px 1px #f0efe3; */
     font-size: 40px;
-    font-family: Cambria, Cochin, Georgia;
+    font-family:  Cochin, Georgia, Cambria,;
     text-align: center;
   }
 
@@ -38,8 +38,8 @@ body {
     padding: 5px 10px 10px 10px;
     display: block;
     align-content: center;
-    border: 10px solid rgb(7, 174, 216);
+    border: 10px solid #95d8e9;
     font-size: 20px;
-    background-color: #f6f7ce;
+    background-color: #e9e9dc;
     text-align: left;
   }
