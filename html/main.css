@@ -9,7 +9,7 @@ body {
     margin-bottom: 0px;
     margin-left: auto;
     width: 1171px;  /* заставляет тело быть всегда 600 пикселей в ширину.*/
-    background-color: #e7b0b0;
+    background-color: #c0e7b0;
     padding: 0 20px 20px 20px; /* у нас есть четыре значения, установленные для padding, 
                                     чтобы сделать немного пространства вокруг нашего контента. 
                                     В этот раз мы не устанавливаем padding на верхней части 
@@ -34,7 +34,7 @@ p {
     margin: 0 auto;
     color: #47120f;
     width: 500px;
-    border: 1px solid #e7b0b0;
+    border: 1px solid #c0e7b0;
     font-size: 30px;
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
