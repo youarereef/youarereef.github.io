@@ -1,0 +1,54 @@
+html {
+    background-color: #ffffff;
+}
+
+body {
+    /* margin: 11% auto;  */
+    margin-top: 10px;
+    margin-right: auto;
+    margin-bottom: 0px;
+    margin-left: auto;
+    width: 1171px;  /* заставляет тело быть всегда 600 пикселей в ширину.*/
+    background-color: #c0e7b0;
+    padding: 0 20px 20px 20px; /* у нас есть четыре значения, установленные для padding, 
+                                    чтобы сделать немного пространства вокруг нашего контента. 
+                                    В этот раз мы не устанавливаем padding на верхней части 
+                                    тела, но делаем 20 пикселей слева, снизу и справа. 
+                                    Значения устанавливаются сверху, справа, снизу, слева, 
+                                    в таком порядке. yes */
+    border: 5px solid rgb(224, 31, 31);
+  }
+
+  h1 {
+    margin: 0; /* margin, пр-во вокруг внешней стороны элемента  */
+    padding: 20px 0; /* padding, пр-во только вокруг контента (например, вокруг абзаца текста) */
+    color: rgb(4, 58, 102);
+    text-shadow: 3px 3px 1px #f0efe3;
+    font-size: 40px;
+    font-family: Cambria, Cochin, Georgia;
+    text-align: center;
+  }
+
+p {
+    display: block;
+    margin: 0 auto;
+    color: #47120f;
+    width: 500px;
+    border: 1px solid #c0e7b0;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+.page_center {
+    margin: 11% auto;
+    padding: 10px 10px 10px 10px;
+    display: block;
+    align-content: center;
+    border: 10px solid rgb(7, 174, 216);
+}
+
+.new {
+    border: 10px solid #3a1034;
+    padding: 10px 10px;
+}
