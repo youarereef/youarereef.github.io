@@ -1,5 +1,5 @@
 html {
-    background-color: #ffffff;
+    background-color: #e27777;
 }
 
 body {
@@ -9,7 +9,7 @@ body {
     margin-bottom: 0px;
     margin-left: auto;
     width: 1171px;  /* заставляет тело быть всегда 600 пикселей в ширину.*/
-    background-color: #13dbe2;
+    background-color: #065b5e;
     padding: 20px 20px 20px 20px; /* у нас есть четыре значения, установленные для padding, 
                                     чтобы сделать немного пространства вокруг нашего контента. 
                                     В этот раз мы не устанавливаем padding на верхней части 
@@ -22,7 +22,7 @@ body {
   h1 {
     
     padding: 0px 0; /* padding, пр-во только вокруг контента (например, вокруг абзаца текста) */
-    color: rgb(4, 58, 102);
+    color: #610704;
     /* text-shadow: 3px 3px 1px #f0efe3; */
     font-size: 40px;
     font-family:  Cochin, Georgia, Cambria,;
@@ -38,8 +38,8 @@ body {
     padding: 5px 10px 10px 10px;
     display: block;
     align-content: center;
-    border: 10px solid #4317e0;
+    border: 10px solid #c3bdd8;
     font-size: 20px;
-    background-color: #e9e9b9;
+    background-color: #b9e9b9;
     text-align: left;
   }
